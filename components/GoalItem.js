@@ -21,8 +21,8 @@ const styles = StyleSheet.create({
     margin: 10,
     borderBottomWidth: 5,
     borderRadius: 8,
-    borderBottomColor: "lightblue",
-    backgroundColor: "orange",
+    borderBottomColor: "grey",
+    backgroundColor: "#5e0acc",
     color: "white",
   },
   pressedItem: {
